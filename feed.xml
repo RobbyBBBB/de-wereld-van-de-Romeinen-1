@@ -1,53 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-2
 <rss version="2.0">
-3
 <channel>
-4
 <title>De Wereld van Romeinen 1</title>
-5
 <link>https://goedbericht.nl</link>
-6
+<language>nl-NL</language>
 <description>Lezingen uit De Wereld van Romeinen 1</description>
-7
  
-8
 <item>
-9
 <title>Aflevering 1</title>
-10
 <guid>bd777a40-5031-41cc-bdc6-67c0dd3cf067</guid>
-11
+<description>Aflevering 1</description>
 <enclosure url="https://stream.redcircle.com/episodes/bd777a40-5031-41cc-bdc6-67c0dd3cf067/stream.mp3" type="audio/mpeg"/>
-12
 </item>
-13
  
-14
 <item>
-15
 <title>Aflevering 2</title>
-16
 <guid>f2901997-a314-4ad9-991c-afceb630d104</guid>
-17
+<description>Aflevering 2</description>
 <enclosure url="https://stream.redcircle.com/episodes/f2901997-a314-4ad9-991c-afceb630d104/stream.mp3" type="audio/mpeg"/>
-18
 </item>
-19
  
-20
 <item>
-21
 <title>Aflevering 3</title>
-22
 <guid>c319be04-55ef-404c-b6a4-be7b1ffe256a</guid>
-23
+<description>Aflevering 3</description>
 <enclosure url="https://stream.redcircle.com/episodes/c319be04-55ef-404c-b6a4-be7b1ffe256a/stream.mp3" type="audio/mpeg"/>
-24
 </item>
-25
  
-26
 </channel>
-27
 </rss>
