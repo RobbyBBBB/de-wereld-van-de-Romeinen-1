@@ -14,7 +14,7 @@
 <itunes:summary>Lezingen uit de studieserie De Wereld van Romeinen 1.</itunes:summary>
 <itunes:explicit>false</itunes:explicit>
 
-<itunes:image href="https://robbybbbb.github-Romeinen-1/afbeelding_1500x1500.png
+<itunes:image href="https://robbybbbb.github.io/de-wereld-van-deng_1500x1500.png
 
 <image>
   <url>https://robbybbbb.github.io/de-wereld-van-de-Romeinen-1/afbeelding_1500x1500.png</url>
@@ -24,26 +24,26 @@
 
 <item>
   <title>De Wereld van Romeinen 1 (1)</title>
-  <guid>bd777a40-5031-41cc-bdc6-67c0dd3cf067</guid>
+  <guid isPermaLink="false">bd777a40-5031-41cc-bdc6-67c0dd3cf067</guid>
   <enclosure
     url="https://stream.redcircle.com/episodes/bd777a40-5031-41cc-bdc6-67c0dd3cf067/stream.mp3"
-    type="audio/mpeg"/>
+    type="audio/mpeg" />
 </item>
 
 <item>
   <title>De Wereld van Romeinen 1 (2)</title>
-  <guid>f2901997-a314-4ad9-991c-afceb630d104</guid>
+  <guid isPermaLink="false">f2901997-a314-4ad9-991c-afceb630d104</guid>
   <enclosure
     url="https://stream.redcircle.com/episodes/f2901997-a314-4ad9-991c-afceb630d104/stream.mp3"
-    type="audio/mpeg"/>
+    type="audio/mpeg" />
 </item>
 
 <item>
   <title>De Wereld van Romeinen 1 (3)</title>
-  <guid>c319be04-55ef-404c-b6a4-be7b1ffe256a</guid>
+  <guid isPermaLink="false">c319be04-55ef-404c-b6a4-be7b1ffe256a</guid>
   <enclosure
     url="https://stream.redcircle.com/episodes/c319be04-55ef-404c-b6a4-be7b1ffe256a/stream.mp3"
-    type="audio/mpeg"/>
+    type="audio/mpeg" />
 </item>
 
 </channel>
