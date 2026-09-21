@@ -1,50 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
- xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-
+2
+<rss version="2.0">
+3
 <channel>
-
+4
 <title>De Wereld van Romeinen 1</title>
-<link>https://goedbericht.nl/studieserie/de-wereld-van-romeinen-1/</link>
-<language>nl-NL</language>
-
-<description>Lezingen uit de studieserie De Wereld van Romeinen 1 van GoedBericht.</description>
-
-<itunes:author>GoedBericht</itunes:author>
-<itunes:summary>Lezingen uit de studieserie De Wereld van Romeinen 1.</itunes:summary>
-<itunes:explicit>false</itunes:explicit>
-
-<itunes:image href="https://robbybbbb.github.io/de-wereld-van-deng_1500x1500.png
-
-<image>
-  <url>https://robbybbbb.github.io/de-wereld-van-de-Romeinen-1/afbeelding_1500x1500.png</url>
-  <title>De Wereld van Romeinen 1</title>
-  <link>https://goedbericht.nl</link>
-</image>
-
+5
+<link>https://goedbericht.nl</link>
+6
+<description>Lezingen uit De Wereld van Romeinen 1</description>
+7
+ 
+8
 <item>
-  <title>De Wereld van Romeinen 1 (1)</title>
-  <guid isPermaLink="false">bd777a40-5031-41cc-bdc6-67c0dd3cf067</guid>
-  <enclosure
-    url="https://stream.redcircle.com/episodes/bd777a40-5031-41cc-bdc6-67c0dd3cf067/stream.mp3"
-    type="audio/mpeg" />
+9
+<title>Aflevering 1</title>
+10
+<guid>bd777a40-5031-41cc-bdc6-67c0dd3cf067</guid>
+11
+<enclosure url="https://stream.redcircle.com/episodes/bd777a40-5031-41cc-bdc6-67c0dd3cf067/stream.mp3" type="audio/mpeg"/>
+12
 </item>
-
+13
+ 
+14
 <item>
-  <title>De Wereld van Romeinen 1 (2)</title>
-  <guid isPermaLink="false">f2901997-a314-4ad9-991c-afceb630d104</guid>
-  <enclosure
-    url="https://stream.redcircle.com/episodes/f2901997-a314-4ad9-991c-afceb630d104/stream.mp3"
-    type="audio/mpeg" />
+15
+<title>Aflevering 2</title>
+16
+<guid>f2901997-a314-4ad9-991c-afceb630d104</guid>
+17
+<enclosure url="https://stream.redcircle.com/episodes/f2901997-a314-4ad9-991c-afceb630d104/stream.mp3" type="audio/mpeg"/>
+18
 </item>
-
+19
+ 
+20
 <item>
-  <title>De Wereld van Romeinen 1 (3)</title>
-  <guid isPermaLink="false">c319be04-55ef-404c-b6a4-be7b1ffe256a</guid>
-  <enclosure
-    url="https://stream.redcircle.com/episodes/c319be04-55ef-404c-b6a4-be7b1ffe256a/stream.mp3"
-    type="audio/mpeg" />
+21
+<title>Aflevering 3</title>
+22
+<guid>c319be04-55ef-404c-b6a4-be7b1ffe256a</guid>
+23
+<enclosure url="https://stream.redcircle.com/episodes/c319be04-55ef-404c-b6a4-be7b1ffe256a/stream.mp3" type="audio/mpeg"/>
+24
 </item>
-
+25
+ 
+26
 </channel>
+27
 </rss>
