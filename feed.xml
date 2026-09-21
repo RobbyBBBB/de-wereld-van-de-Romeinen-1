@@ -5,6 +5,14 @@
 <link>https://goedbericht.nl</link>
 <language>nl-NL</language>
 <description>Lezingen uit De Wereld van Romeinen 1</description>
+<itunes:author>GoedBericht</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+
+<image>
+<url>https://robbybbbb.github.io/de-wereld-van-de-Romeinen-1/afbeelding_1500x1500.png</url>
+<title>De Wereld van Romeinen 1</title>
+<link>https://goedbericht.nl</link>
+</image>
  
 <item>
 <title>Aflevering 1</title>
