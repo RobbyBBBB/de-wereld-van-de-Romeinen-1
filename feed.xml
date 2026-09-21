@@ -1,45 +1,118 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
- xmlns:content="http://purl.org/rss/1.0/modules/content/">
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:atom="http://www.w3.org/2005/Atom">
 
 <channel>
-<title>De Wereld van Romeinen 1</title>
-<link>https://goedbericht.nl</link>
-<language>nl</language>
-<description>Lezingen uit de serie De Wereld van Romeinen 1.</description>
 
+<title>De Wereld van Romeinen 1</title>
+<link>https://goedbericht.nl/studieserie/de-wereld-van-romeinen-1/</link>
+
+<atom:link
+ href="https://robbybbbb.github.io/de-wereld-van-de-Romeinen-1/feed.xml"
+ rel="self"
+ type="application/rss+xml" />
+
+<language>nl-NL</language>
+<copyright>GoedBericht</copyright>
+
+<description>
+De werelder Romeinen hoofdstuk 1.
+</description>
+
+<itunes:type>serial</itunes:type>
 <itunes:author>GoedBericht</itunes:author>
-<itunes:summary>Lezingen uit de serie De Wereld van Romeinen 1.</itunes:summary>
+
+<itunes:owner>
+  <itunes:name>GoedBericht</itunes:name>
+  <itunes:email>podcast@goedbericht.nl</itunes:email>
+</itunes:owner>
+
+<itunes:summary>
+De wereld van Romeinen 1. Een driedelige studieserie van GoedBericht.
+</itunes:summary>
+
+<itunes:subtitle>
+Lezingen uit de studieserie De Wereld van Romeinen 1.
+</itunes:subtitle>
+
 <itunes:explicit>false</itunes:explicit>
 
+<itunes:image href="https://robbybbbb.github.io/de-wereld-van-de-Rome00x1500.png
+
+<image>
+  <url>https://robbybbbb.github.io/de-wereld-van-de-Romeinen-1/afbeelding_1500x1500.png</url>
+  <title>De Wereld van Romeinen 1</title>
+  <link>https://goedbericht.nl</link>
+</image>
+
+<itunes:category text="Religion &amp; Spirituality">
+  <itunes:category text="Christianity"/>
+</itunes:category>
+
 <item>
+
 <title>De Wereld van Romeinen 1 (1)</title>
-<description>Eerste lezing uit de serie De Wereld van Romeinen 1.</description>
-<guid>bd777a40-5031-41cc-bdc6-67c0dd3cf067</guid>
+
+<description>
+Eerste lezing uit de serie De Wereld van Romeinen 1.
+</description>
+
+<itunes:author>GoedBericht</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+
+<guid isPermaLink="false">
+bd777a40-5031-41cc-bdc6-67c0dd3cf067
+</guid>
+
 <enclosure
  url="https://stream.redcircle.com/episodes/bd777a40-5031-41cc-bdc6-67c0dd3cf067/stream.mp3"
  type="audio/mpeg"/>
+
 </item>
 
 <item>
+
 <title>De Wereld van Romeinen 1 (2)</title>
-<description>Tweede lezing uit de serie De Wereld van Romeinen 1.</description>
-<guid>f2901997-a314-4ad9-991c-afceb630d104</guid>
+
+<description>
+Tweede lezing uit de serie De Wereld van Romeinen 1.
+</description>
+
+<itunes:author>GoedBericht</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+
+<guid isPermaLink="false">
+f2901997-a314-4ad9-991c-afceb630d104
+</guid>
+
 <enclosure
  url="https://stream.redcircle.com/episodes/f2901997-a314-4ad9-991c-afceb630d104/stream.mp3"
  type="audio/mpeg"/>
+
 </item>
 
 <item>
+
 <title>De Wereld van Romeinen 1 (3)</title>
-<description>Derde lezing uit de serie De Wereld van Romeinen 1.</description>
-<guid>c319be04-55ef-404c-b6a4-be7b1ffe256a</guid>
+
+<description>
+Derde lezing uit de serie De Wereld van Romeinen 1.
+</description>
+
+<itunes:author>GoedBericht</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+
+<guid isPermaLink="false">
+c319be04-55ef-404c-b6a4-be7b1ffe256a
+</guid>
+
 <enclosure
  url="https://stream.redcircle.com/episodes/c319be04-55ef-404c-b6a4-be7b1ffe256a/stream.mp3"
  type="audio/mpeg"/>
+
 </item>
 
 </channel>
 </rss>
-``
